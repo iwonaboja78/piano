@@ -1,0 +1,79 @@
+body {
+  background-color: #283149;
+  text-align: center;
+}
+
+h1 {
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  font-size: 5rem;
+  text-shadow: 3px 0 teal;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.d {
+  background-image: url("images/1.jpg");
+}
+
+.r {
+  background-image: url("images/2.jpg");
+}
+
+.m {
+  background-image: url("images/3.jpg");
+}
+
+.f {
+  background-image: url("images/4.jpg");
+}
+
+.s {
+  background-image: url("images/1.jpg");
+}
+
+.l {
+  background-image: url("images/2.jpg");
+}
+
+.i {
+  background-image: url("images/3.jpg");
+}
+
+.o {
+  background-image: url("images/4.jpg");
+}
+
+.piano {
+  outline: none;
+  line-height: 2;
+  font-weight: 900;
+  font-size: 4rem;
+  font-family: "Arvo", cursive;
+  color: teal;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  border: 10px solid #404B69;
+  display: inline-block;
+  width: 100px;
+  height: 600px;
+  text-align: center;
+  margin: 5px;
+  background-color: white;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
